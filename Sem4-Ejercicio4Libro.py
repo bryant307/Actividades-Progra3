@@ -37,7 +37,7 @@ ejemplo1 = Almacen( #Este es un dato de ejemplo
 
 ejemplo1.detalle_producto()
 
-#Aqui permite introducir valores
+#Aqui permite introducir valores y datos
 datos1 = Almacen(
     tipo_dispositivo= input("Tipo de Dispositivo: "),
     modelo= input('Modelo: '),
